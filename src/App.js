@@ -6,7 +6,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
 
-          Drivezy
+          Server side rendering demo
         </header>
       </div>
     );
