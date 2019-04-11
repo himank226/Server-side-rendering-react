@@ -3,10 +3,9 @@ import React, { Component } from 'react';
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App" >
         <header className="App-header">
-
-          Server side rendering demo
+          Server Side rendering in react
         </header>
       </div>
     );
@@ -14,3 +13,5 @@ class App extends Component {
 }
 
 export default App;
+
+
