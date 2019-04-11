@@ -1,4 +1,4 @@
-##install node modules
+## install node modules
 Run yarn command 
 
 ## for run server and client 
