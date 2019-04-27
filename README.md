@@ -14,11 +14,11 @@ npm run dev
 
 
 ## Usages
-Node.js with Express as the backend server
-Webpack as a bundler
-Babel as a transpiler
+1. Node.js with Express as the backend server
+2. Webpack as a bundler
+3. Babel as a transpiler
 
 ## libraries
-npm install --save-dev @babel/cli @babel/core @babel/node @babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
+* npm install --save-dev @babel/cli @babel/core @babel/node @babel/preset-env @babel/preset-react babel-loader webpack webpack-cli
 
-npm install --save express react react-dom
+* npm install --save express react react-dom
